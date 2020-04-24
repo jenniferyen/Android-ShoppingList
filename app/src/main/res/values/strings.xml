@@ -1,0 +1,22 @@
+<resources>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Clothing</item>
+        <item>Toiletries</item>
+        <item>Electronics</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="app_name">ShoppingList</string>
+    <string name="splash_logo_desc">splash screen upon loading app</string>
+    <string name="btnDelete">Delete</string>
+    <string name="item_name">Item name</string>
+    <string name="item_category">Category</string>
+    <string name="item_estPrice">Estimated price</string>
+    <string name="item_desc">Item description</string>
+    <string name="iv_iconDesc">icon corresponding to image category</string>
+    <string name="tv_estPrice">Price : $%s</string>
+    <string name="btnEdit">Edit</string>
+    <string name="fab_hidePurchased">Hide purchased</string>
+    <string name="fab_unhidePurchased">Unhide purchased</string>
+</resources>
